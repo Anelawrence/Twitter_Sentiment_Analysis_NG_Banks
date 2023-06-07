@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis of Nigerian Banks
 ## Introduction
-The banking industry in Nigeria is the most digitized on the continent, and the nation was recently named the leader in digital payments in Africa. A press release from 2022 states that Nigeria recorded 3.7 billion real-time payments in 2021, placing it sixth among nations with the largest real-time payments markets.
+The banking industry in Nigeria is the most digitized on the continent, and the nation was recently named the leader in digital payments in Africa. A [press release](https://www.businesswire.com/news/home/20220719005265/en/) from 2022 states that Nigeria recorded 3.7 billion real-time payments in 2021, placing it sixth among nations with the largest real-time payments markets.
 However, due to high inflation, rising interest rates, shortage of US dollars, regulatory interference, and shortage of the Naira notes before the general election in February, weakens bank operating conditions in 2023.
 
 ## Aims and Objectives
