@@ -24,3 +24,6 @@ This project aims to uncover insights in from bank customers' tweets on Twitter.
 - FirstBank still maintains the highest in the average polarity rating, followed by Wema Bank and Kuda. This indicates that most tweets about these banks reflects good remarks about their services. 
 - Meanwhile, Sterling stay at the bottom of the rating with very litle average polarity.
 - Subjectivity which shows the amount of emotion in each tweets shows that Sterling, FirstBank and Eco Bank are the top of the chart. Although, the difference in the ranks of each bank is not much.
+
+## Conclusion
+In conclusion, the Twitter sentiment analysis of Nigerian banks revealed mixed customer opinions. While some customers expressed satisfaction with the services provided, others expressed dissatisfaction due to issues with customer support and high fees. Further research is needed to explore the specific areas of improvement required to enhance customer experiences in the banking industry.
