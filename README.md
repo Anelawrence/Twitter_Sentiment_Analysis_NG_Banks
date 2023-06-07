@@ -13,4 +13,4 @@ This project aims to uncover insights in from bank customers' tweets on Twitter.
 - **Exploratory Data Analysis/Visualization** : Text mining and data wrangling were used in this stage to extract pertinent data and information and produce insightful findings. In order to make the results easier to understand, visualizations were created.
 
 ## Data Visualization
-![Bank_sentiment_analysis](Bank_sentiment_analysis.png)
+![Bank_sentiment_analysis](Bank_sentiment_analysis.PNG)
